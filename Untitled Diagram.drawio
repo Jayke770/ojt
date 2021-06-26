@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:54:32.656Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NtdIXd7tdNxEK6Vsmwwn" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:56:02.903Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="m-7xPe8dImJDpKrHjWpz" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
     <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-13" value="Printer for all&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-16" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-16" value="&lt;p style=&quot;line-height: 0%&quot;&gt;SWITCH&lt;/p&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
           <mxGeometry x="285" y="589" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
