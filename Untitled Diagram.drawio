@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:31:03.332Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ouDg4VggaO9q7DVBmN1J" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:31:54.709Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WstW-T9O5Rj5eaQQMzUE" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="1240" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
           <mxGeometry x="442.73" y="91.25" width="125" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_fiber_dvr_48px-128.png" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-27" value="DVR or NVR" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_fiber_dvr_48px-128.png" vertex="1" parent="1">
           <mxGeometry x="425" y="780" width="68.85" height="68.85" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-28" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
