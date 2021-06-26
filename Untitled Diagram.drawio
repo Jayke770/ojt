@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:03:50.150Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tCblRK581Hg7lY-bIDs_" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:08:58.419Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="YMz40rU_iEtOKVKxGATu" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
     <mxGraphModel dx="1447" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="397.73" y="450" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
-          <mxGeometry x="567.73" y="90" width="125" height="110" as="geometry" />
+          <mxGeometry x="442.73" y="91.25" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_fiber_dvr_48px-128.png" vertex="1" parent="1">
           <mxGeometry x="425" y="780" width="68.85" height="68.85" as="geometry" />
@@ -120,6 +120,18 @@
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-58" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=0;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="588.46" y="626.1" width="66.04" height="78.63" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-59" value="" style="line;strokeWidth=4;direction=south;html=1;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="10" height="244.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-60" value="" style="line;strokeWidth=4;direction=south;html=1;strokeColor=#CC0000;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="493.18" y="201.25" width="10" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-62" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;strokeColor=#CC0000;strokeWidth=4;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="624.29" y="249.8" width="85.71" height="110.2" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-63" value="" style="line;strokeWidth=4;direction=south;html=1;rotation=130;strokeColor=#CC0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="594.34" y="163.24" width="10" height="94.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
