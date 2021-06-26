@@ -1,47 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T00:35:08.974Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AKe5CeK_h3KvD1d9DVQ2" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T00:45:13.876Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="e1n819xWC0qfUYMBXSqy" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="2170" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UrPRGBc3AC6-OfDezkd7-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
-          <mxGeometry x="123.5" y="435.25" width="53" height="59" as="geometry" />
+          <mxGeometry x="70" y="490" width="53" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
-          <mxGeometry x="123.5" y="536.25" width="53" height="59" as="geometry" />
+          <mxGeometry x="70" y="591" width="53" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="433" y="840" width="100" height="70" as="geometry" />
+          <mxGeometry x="335" y="840" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
-          <mxGeometry x="620" y="400.75" width="93.5" height="93.5" as="geometry" />
+          <mxGeometry x="670" y="410" width="93.5" height="93.5" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
-          <mxGeometry x="620" y="591.75" width="93.5" height="93.5" as="geometry" />
+          <mxGeometry x="670" y="601" width="93.5" height="93.5" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
-          <mxGeometry x="620" y="694.25" width="93.5" height="93.5" as="geometry" />
+          <mxGeometry x="670" y="703.5" width="93.5" height="93.5" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
-          <mxGeometry x="620" y="498.25" width="93.5" height="93.5" as="geometry" />
-        </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/prored/My%20Computer.png" vertex="1" parent="1">
-          <mxGeometry x="450" y="155" width="128" height="128" as="geometry" />
+          <mxGeometry x="670" y="507.5" width="93.5" height="93.5" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-13" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="110" y="725.25" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-16" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="740" y="50" width="80" height="80" as="geometry" />
+          <mxGeometry x="210" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="340" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
-          <mxGeometry x="123.5" y="635.25" width="53" height="59" as="geometry" />
+          <mxGeometry x="70" y="690" width="53" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-22" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="318" y="830" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-24" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
+          <mxGeometry x="425" y="540" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
+          <mxGeometry x="567.73" y="90" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_fiber_dvr_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="960" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-28" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="690" y="968.85" width="48.46" height="72.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
