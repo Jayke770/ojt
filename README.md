@@ -5,7 +5,7 @@
 - [Jayke770](https://github.com/jayke770)
 
 
-# License 
+# License MIT
 Copyright (c) 2021 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
