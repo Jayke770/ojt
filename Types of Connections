@@ -6,6 +6,6 @@ Router -> ISP : FIBER OPTICS
 Router -> Switch :  Straight-through Cable/Cat6 Cable/UTP
 Switch -> Computer(s) : Straight-through Cable
 Printer(s) -> Switch: Straight-through Cable
-
+Raspberry Pi -> Switch: Straight-through Cable
 
 
