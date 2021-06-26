@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:58:41.688Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JUuwdq4DYX-lLE7FMGW8" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:59:07.095Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9mJziiF9r7wjE9tQcEHm" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
     <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-16" value="&lt;p style=&quot;line-height: 0%&quot;&gt;SWITCH&lt;/p&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
           <mxGeometry x="285" y="589" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="293" y="209.75" width="80" height="80" as="geometry" />
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-18" value="ROUTER&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="284" y="196.36" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-21" value="Official 1&lt;br&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="53" height="59" as="geometry" />
