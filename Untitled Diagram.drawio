@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:02:00.284Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0LFqifWRm0_RZ-EyUEhM" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:02:41.520Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Ofe6xTbRBnGJp8j1_sPi" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
     <mxGraphModel dx="1447" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="122" y="888.85" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-24" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
-          <mxGeometry x="428" y="555.5" width="170" height="130" as="geometry" />
+          <mxGeometry x="397.73" y="450" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
           <mxGeometry x="567.73" y="90" width="125" height="110" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="425" y="780" width="68.85" height="68.85" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-28" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
-          <mxGeometry x="540" y="778.27" width="48.46" height="72.3" as="geometry" />
+          <mxGeometry x="540" y="634.5" width="48.46" height="72.3" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-31" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="528.5" width="90" height="10" as="geometry" />
