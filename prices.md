@@ -8,3 +8,5 @@
 | Canon Pixma MP237 | 2 | ₱6,800 | 
 | DVR 1TB | 1 | ₱4,200 |
 | COMFAST POE Adapter | 1 | ₱316 |
+| Raspberry Pi 4 Model B 4GB RAM | 1 | ₱3,399 | 
+| COMPUTER DESKTOP INTEL CORE i5 4TH GEN | 4 | ₱12,999 |
