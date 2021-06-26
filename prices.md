@@ -12,7 +12,7 @@
 | COMFAST POE Adapter | 1 | ₱316 | [Link](https://shopee.ph/COMFAST-POE-Adapter-For-Router-Repeater-24V-0.5A-48V-0.5A-48V-0.32A-i.395437934.8444667519) |
 | Raspberry Pi 4 Model B 4GB RAM | 1 | ₱3,399 | [Link](https://shopee.ph/Raspberry-Pi-4-Model-B-2GB-4GB-8GB-RAM-i.18252381.2705276415) |
 | COMPUTER DESKTOP INTEL CORE i5 4TH GEN | 4 | ₱12,999 | [Link](https://shopee.ph/COMPUTER-DESKTOP-INTEL-CORE-i5-4TH-GEN-COMPLETE-PACKAGE-i.14954746.6143710113) |
-
+| Ethernet cable RJ45 | 1 | ₱138- ₱1065 | [Link](https://shopee.ph/product/329606930/9203131923?smtt=0.69388664-1624705465.9)|
 
 # Disclaimer  
 ```
