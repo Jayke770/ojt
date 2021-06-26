@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:30:15.386Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="omj3kzcOKlaKFZlw7azh" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:31:03.332Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ouDg4VggaO9q7DVBmN1J" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="241" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,10 +94,10 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-45" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="609" width="10" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-46" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-46" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="310" y="670" width="10" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-47" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-47" value="" style="line;strokeWidth=2;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="314" y="815" width="106" height="10" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-51" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fillColor=none;" vertex="1" parent="1">
@@ -136,16 +136,16 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-64" value="&lt;font color=&quot;#ff0000&quot;&gt;Poe Adapter&lt;/font&gt;" style="strokeWidth=2;outlineConnect=0;dashed=0;align=center;html=1;fontSize=8;shape=mxgraph.eip.channel_adapter;fillColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="428" y="704.73" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-65" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-65" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="550" y="698.85" width="10" height="31.15" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-66" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-66" value="" style="line;strokeWidth=2;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="480" y="724.5" width="76" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-68" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-68" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="338" y="654.73" width="10" height="85.27" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-70" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-70" value="" style="line;strokeWidth=2;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="342" y="733.5" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-72" value="Raspberry Pi&amp;nbsp;&lt;br&gt;Computer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-life/512/raspberry-pi-128.png;dashed=1;strokeColor=#CC0000;strokeWidth=4;fillColor=#000033;" vertex="1" parent="1">
