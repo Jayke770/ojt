@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T02:03:45.946Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gMBaVkDf1a8I4QMAEgVF" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T02:07:36.490Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EPkyqxkPFy7lJ2T97QIL" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="413" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="289" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,6 +195,21 @@
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-102" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;direction=south;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="405" y="961.52" width="31.74" height="26.66" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-103" value="2 TB SDD - cctv storage&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png;dashed=1;strokeColor=#FF8000;strokeWidth=4;fillColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="40.00000000000006" y="977.98" width="56.82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-104" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="880" width="10" height="97.98" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-105" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="875.85" width="156" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-106" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="879.86" width="10" height="40.14" as="geometry" />
+        </mxCell>
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-107" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="914" width="20.5" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
