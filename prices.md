@@ -16,5 +16,5 @@
 
 # Disclaimer  
 ```
-All Products Listed Above Is Used For Educational Purposes Only
+All Products Listed Above Is For Educational Purposes Only
 ```
