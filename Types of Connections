@@ -3,8 +3,9 @@ Router -> ISP : FIBER OPTICS
 
 -------------------------------
 
-Router -> Switch : Cat6 Cable
-Switch -> 
+Router -> Switch :  Straight-through Cable/Cat6 Cable/UTP
+Switch -> Computer(s) : Straight-through Cable
+Printer(s) -> Switch: Straight-through Cable
 
 
 
