@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:50:43.101Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="iqWe9J9P2R5AqaMUhF4_" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:54:32.656Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NtdIXd7tdNxEK6Vsmwwn" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="1021" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-1" value="Official 3" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
           <mxGeometry x="70" y="490" width="53" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-2" value="Official 2" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
           <mxGeometry x="70" y="591" width="53" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-3" value="Administrator/kapitan" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="238" y="898.85" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
           <mxGeometry x="710" y="537.5" width="93.5" height="93.5" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-13" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-13" value="Printer for all&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-16" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
@@ -34,10 +34,10 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
           <mxGeometry x="293" y="209.75" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-21" value="Official 1&lt;br&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="53" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-22" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-22" value="Printer ni Admin" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
           <mxGeometry x="122" y="888.85" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-24" value="Smart TV for CCTV Monitor&lt;br&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
