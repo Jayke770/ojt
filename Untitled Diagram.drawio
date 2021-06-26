@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:59:07.095Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9mJziiF9r7wjE9tQcEHm" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:59:48.622Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WpyWrtzZlRlTNpz_nSeX" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
     <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-24" value="Smart TV for CCTV Monitor&lt;br&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
           <mxGeometry x="454.29" y="444.01" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-26" value="INTERNET CLOUD" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
           <mxGeometry x="442.73" y="30" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-27" value="DVR or NVR" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_fiber_dvr_48px-128.png" vertex="1" parent="1">
@@ -127,7 +127,7 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-60" value="" style="line;strokeWidth=4;direction=south;html=1;strokeColor=#CC0000;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="493.18" y="140" width="10" height="242" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-62" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;strokeColor=#CC0000;strokeWidth=4;fillColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-62" value="ISP/PLDT" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;strokeColor=#CC0000;strokeWidth=4;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="624.29" y="188.55" width="85.71" height="110.2" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-63" value="" style="line;strokeWidth=4;direction=south;html=1;rotation=130;strokeColor=#CC0000;dashed=1;" vertex="1" parent="1">
