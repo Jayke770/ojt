@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T01:39:06.015Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xrVFPd8m8wXDYuq-W3zP" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T01:40:10.141Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="myK780A3evPYV31WUaca" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="241" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,19 +151,19 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-72" value="Raspberry Pi&amp;nbsp;&lt;br&gt;Computer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-life/512/raspberry-pi-128.png;dashed=1;strokeColor=#CC0000;strokeWidth=4;fillColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="389.75" y="486" width="42.5" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-74" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-74" value="" style="line;strokeWidth=2;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="410" y="416" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-75" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-75" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="546" y="420" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-76" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-76" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="406" y="420" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-78" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-78" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="406" y="570" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-80" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-80" value="" style="line;strokeWidth=2;html=1;fillColor=#FF8000;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="391" y="625.1" width="21" height="10" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-81" value="2 TB SDD - cctv storage&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png;dashed=1;strokeColor=#FF8000;strokeWidth=4;fillColor=#000033;" vertex="1" parent="1">
