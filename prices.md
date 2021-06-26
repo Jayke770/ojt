@@ -1,3 +1,5 @@
+# Educational Purposes Only
+
 | Product       | Quantity  | Price | Product Link |
 | ------------- | ------------- | ------------- | ------------- | 
 | TP-Link Archer A5 AC1200  | 1  | ₱1,080 | [Link](https://shopee.ph/New-Tp-Link-Archer-A5-AC1200-Wireless-Dual-Band-Router-i.21380649.7558731342) |
@@ -10,3 +12,9 @@
 | COMFAST POE Adapter | 1 | ₱316 | [Link](https://shopee.ph/COMFAST-POE-Adapter-For-Router-Repeater-24V-0.5A-48V-0.5A-48V-0.32A-i.395437934.8444667519) |
 | Raspberry Pi 4 Model B 4GB RAM | 1 | ₱3,399 | [Link](https://shopee.ph/Raspberry-Pi-4-Model-B-2GB-4GB-8GB-RAM-i.18252381.2705276415) |
 | COMPUTER DESKTOP INTEL CORE i5 4TH GEN | 4 | ₱12,999 | [Link](https://shopee.ph/COMPUTER-DESKTOP-INTEL-CORE-i5-4TH-GEN-COMPLETE-PACKAGE-i.14954746.6143710113) |
+
+
+# Disclaimer  
+```
+All Products Listed Above Is Used For Educational Purposes Only
+```
