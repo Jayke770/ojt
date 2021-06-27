@@ -1,7 +1,7 @@
 <p align="center"><b>This Repository Is Created For Educational Purposes Only</b></p>
 
 # Website Use For Modeling 
-- [Diagrams.net](diagrams.net)
+- [Diagrams.net](https://diagrams.net)
 
 # Collaborators & Maintainer
 - [bonsai-321](https://github.com/bonsai-321)
