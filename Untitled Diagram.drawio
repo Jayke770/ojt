@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T06:56:04.626Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="mVj9SczCsmsvrM98q0sG" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T06:56:19.970Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="4CYnrsn_cB4mDHI51AIL" version="14.8.1" type="github">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="723" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,6 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-18" value="ROUTER&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="1" vertex="1">
           <mxGeometry x="284" y="196.36" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-21" value="Official 1&lt;br&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" parent="1" vertex="1">
-          <mxGeometry x="70" y="690" width="53" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-22" value="Printer ni Admin" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" parent="1" vertex="1">
           <mxGeometry x="122" y="888.85" width="80" height="80" as="geometry" />
         </mxCell>
@@ -49,20 +46,11 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-32" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="623.5" width="150" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-33" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="724.5" width="90" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-35" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="216" y="532" width="10" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-36" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
-          <mxGeometry x="216" y="640" width="10" height="90.5" as="geometry" />
-        </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-37" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="614.5" width="60" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-38" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="634.5" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-39" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="248" y="650" width="10" height="244.85" as="geometry" />
