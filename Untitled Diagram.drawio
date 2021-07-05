@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T07:00:06.109Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="tTrIS_3NIFrvv17Im4g0" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T00:06:16.501Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="JnJ98Pe-1-_WGm6Mbi39" version="14.8.2" type="github" pages="2">
   <diagram id="O53_BzFKh1CKuRJ91lNf" name="Page-1">
-    <mxGraphModel dx="1736" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-1" value="Official 2" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" parent="1" vertex="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-1" value="Official 3" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" parent="1" vertex="1">
           <mxGeometry x="70" y="490" width="53" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="UrPRGBc3AC6-OfDezkd7-2" value="Official 1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" parent="1" vertex="1">
+        <mxCell id="UrPRGBc3AC6-OfDezkd7-2" value="Official 2" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" parent="1" vertex="1">
           <mxGeometry x="70" y="591" width="53" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UrPRGBc3AC6-OfDezkd7-3" value="Administrator/kapitan" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
@@ -115,6 +115,26 @@
         <mxCell id="UrPRGBc3AC6-OfDezkd7-70" value="" style="line;strokeWidth=2;html=1;strokeColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="377" y="733.5" width="42" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="FEZNV3VCVBW5LgcsCCx8-1" value="Official 1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+          <mxGeometry x="69" y="695.73" width="53" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="FEZNV3VCVBW5LgcsCCx8-2" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="744.73" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FEZNV3VCVBW5LgcsCCx8-3" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="640" width="10" height="110.73" as="geometry" />
+        </mxCell>
+        <mxCell id="TDs1U2abs6HJf-lXm6lc-1" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="634.5" width="60" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4qFclOX4w4gJdjnggwHC" name="Page-2">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1300" math="0" shadow="0">
+      <root>
+        <mxCell id="hoKeUlfR5s4Tl-KSNSq3-0" />
+        <mxCell id="hoKeUlfR5s4Tl-KSNSq3-1" parent="hoKeUlfR5s4Tl-KSNSq3-0" />
       </root>
     </mxGraphModel>
   </diagram>
